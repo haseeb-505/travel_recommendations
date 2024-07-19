@@ -1,0 +1,8 @@
+.live_time{
+    background-color: rgba(0,0,0,0.2);
+    color: white;
+    padding-left: 15px;
+}
+.live_time h4, .live_time span{
+    font-size: medium;
+}

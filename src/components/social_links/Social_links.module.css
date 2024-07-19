@@ -1,0 +1,19 @@
+.social_media_links{
+    position: absolute;
+    top: 30%;
+    left: 2.5%;
+    /* transform: translate(0%, -15%); */
+    /* transform-origin: ; */
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.circular_image {
+    width: 40px; /* Set your desired width */
+    height: 40px; /* Set your desired height */
+    border-radius: 100%; /* Crop the image circularly */
+    overflow: hidden; /* Hide overflow content outside the circle */
+    /* display: inline-block; */
+    /* Ensure the link behaves as a block */
+}

@@ -1,0 +1,39 @@
+.Navbar{
+    background-color: rgba(0, 0, 0, 0.274) !important;
+}
+
+.logo_img{
+    margin: 5px;
+    padding: 0px !important;
+}
+
+.title{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    margin-left: 7px;
+}
+.navToggle{
+    border-color: rgba(255, 255, 255, 0.877);
+    background-color: rgba(3, 3, 3, 0);
+    color: white;
+}
+.LinkItems{
+    margin-left: 25px;
+    color: white !important;
+    gap: 22px;
+    font-weight: 600;
+}
+
+.NavLink{
+    color: white;
+    text-align: center;
+}
+
+
+.btnSearchClear{
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.877);
+}
+

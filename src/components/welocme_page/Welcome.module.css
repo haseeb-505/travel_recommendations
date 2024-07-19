@@ -1,0 +1,39 @@
+.content{
+    background-color: rgba(0,0,0, alpha=0.6);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content h1{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(-40%, -60%);
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: to add a semi-transparent background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.content p{
+    position: absolute;
+    top: 55%;
+    left: 27%;
+    transform: translate(-40%, -30%);
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: to add a semi-transparent background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.book_button{
+    position: absolute;
+    top: 90%;
+    left: 15%;
+    transform: translate(-45%, -50%);
+    padding: 10px;
+    background-color: rgb(1, 54, 1);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}

@@ -1,0 +1,44 @@
+.content{
+    background-color: rgba(0,0,0, alpha=0.6);
+    color: white;
+}
+
+.content h1{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    background-color: rgba(0, 0, 0, 0.377);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
+    text-align: center;
+}
+.content p{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    background-color: rgba(0, 0, 0, 0.678);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: large;
+    /* font-family: 'Times New Roman', Times, serif; */
+    width: 50%;
+    text-align: justify;
+}
+
+.book_button{
+    position: absolute;
+    top: 85%;
+    left: 10%;
+    /* transform: translate(-45%, -50%); */
+    padding: 10px;
+    background-color: rgb(1, 54, 1);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+

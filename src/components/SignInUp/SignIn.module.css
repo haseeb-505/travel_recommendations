@@ -1,0 +1,24 @@
+.auth_form {
+    position: absolute;
+    top: 20%;
+    left: 28%;
+    width: 50%;
+    height: 70%;
+    margin: 10px auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.sign_in_form .form_group {
+    position: absolute;
+    /* top: 20%; */
+    left: 35%;
+    right: 35%;
+    color: #000000;
+}
+.auth_form button{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}

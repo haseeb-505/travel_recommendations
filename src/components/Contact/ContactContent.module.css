@@ -1,0 +1,100 @@
+.contact h1{
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.7);
+}
+
+.contact p{
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 18%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.7);
+}
+.contact_form {
+    width: 38%;
+    height: 80%;
+    position: absolute;
+    top: 23%;
+    left: 60%;
+    margin-bottom: 20px;
+    /* padding-bottom: 10px; */
+    padding: 15px;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 10px;
+}
+
+.form_group {
+    color: rgb(255, 255, 255);
+    /* background-color: rgba(0,0,0,0.7); */
+    /* font-size: larger; */
+    margin-bottom: 10px;
+    /* width: 396px; */
+}
+
+.form_group label{
+    font-size: medium;
+    padding-bottom: 5px;
+    width: 100%;
+}
+
+.form_group input{
+    width: 100%;
+}
+
+.form_group small {
+    color: rgb(255, 255, 255);
+    background: rgba(216, 211, 211, 0.808);
+    width: 396px !important;
+}
+
+.form_check_input {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: -43%;
+}
+.form_check_label{
+    position: absolute;
+    left: 15%;
+    vertical-align: middle;
+}
+
+
+
+.contact_form button {
+    width: 20%;
+    position: relative;
+    left: 17%;
+    transform: translate(-80%, 110%);
+    /* top: 100%; */
+}
+
+.form_group textarea {
+    border-radius: 5px;
+    color: black;
+    overflow: scroll;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+

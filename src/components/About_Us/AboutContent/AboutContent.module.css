@@ -1,0 +1,75 @@
+/* .content{
+    background-color: rgba(0,0,0,0.5);
+} */
+.title{
+    color: white;
+    position: absolute;
+    top: 27%;
+    left: 45%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: xxx-large;
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+}
+.about_para{
+    color: white;
+    position: absolute;
+    top: 45%;
+    left: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.781);
+    width: 80%;
+}
+.our_team{
+    /* display: flex; */
+    /* flex-direction: column; */
+    position: absolute;
+    top: 65%;
+    left: 15%;
+    color: white;
+    background-color: rgba(0,0,0,0.7);
+    text-align: center;
+    width: 80%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cards{
+    display: flex;
+    gap: 15px;
+}
+.card{
+    background-color: white;
+    height: 15rem;
+}
+.card h5, .card p{
+    color: black;
+    margin-top: 3px;
+    padding: 5px;
+}
+.card button{
+    background-color: rgb(8, 43, 1);
+    color: white;
+    border-radius: 5px;
+    margin-top: 3px;
+}
+
+.book_button{
+    position: absolute;
+    top: 90%;
+    left: 1%;
+    /* transform: translate(-45%, -50%); */
+    padding: 10px;
+    background-color: rgb(1, 54, 1);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
